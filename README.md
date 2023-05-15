@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua máquina, digite:
 
 ```
-Sudo apt install git
+ Sudo apt install node app.js
 ```
